@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: MIT　　　　　　//github練習
 // Copyright (c) 2026 NNITShimaLab contributors
 #include <Arduino_CAN.h>
 #include <EEPROM.h>
