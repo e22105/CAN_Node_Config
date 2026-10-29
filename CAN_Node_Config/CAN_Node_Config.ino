@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT　　　　　　//github練習
-// Copyright (c) 2026 NNITShimaLab contributors
+// Copyright (c) 2026 NNITShimaLab contributors　//LED動作確認用
 #include <Arduino_CAN.h>
 #include <EEPROM.h>
 #include <Adafruit_NeoPixel.h>
